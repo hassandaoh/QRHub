@@ -21,4 +21,6 @@ Open `http://localhost:3000`.
 
 ## Production
 
+Production: https://qrhub-kappa.vercel.app
+
 Designed for Vercel and registered as an External App in Khai-Hub.
